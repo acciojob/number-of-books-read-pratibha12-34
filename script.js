@@ -29,4 +29,4 @@ const numberOfBooksRead = () => {
 // Do not change the code below
 
 
-numberOfBooksRead()
+console.log(numberOfBooksRead());
