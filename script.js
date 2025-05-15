@@ -27,10 +27,10 @@ const numberOfBooksRead = () => {
 			
 			
 		}
-	}
+	}console.log(count);
 };
 
 // Do not change the code below
 
 
-console.log(numberOfBooksRead());
+numberOfBooksRead()
